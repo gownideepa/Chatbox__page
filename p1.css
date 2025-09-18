@@ -1,0 +1,21 @@
+.d-v-bg-container{
+    background-image: url("../images/image.png");
+    height:100vh;
+    background-size:cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.d-v-headings{
+    padding:15px;
+    font-size: 25px;
+    color:white;
+}
+.v-c-container {
+    background-color: white;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    width: 600px;           
+    margin: 0 auto;         
+}
+
