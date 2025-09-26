@@ -1,5 +1,7 @@
 .bg-container {
     background-image: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/chatbg.png);
+
+    
     font-family: Roboto;
 }
 
@@ -7,6 +9,8 @@
     text-align: center;
     background-color: #323f4b;
     color: #ffffff;
+
+    
 }
 
 .message-sent {
@@ -28,3 +32,4 @@
     border-top-left-radius: 5px;
     border-bottom-left-radius: 5px;
 }
+
