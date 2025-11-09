@@ -1,3 +1,4 @@
+/*  stylesheet for page named p1 */
 .bg-container {
     background-image: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/chatbg.png);
 
@@ -32,4 +33,5 @@
     border-top-left-radius: 5px;
     border-bottom-left-radius: 5px;
 }
+
 
