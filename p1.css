@@ -1,5 +1,6 @@
 /*  stylesheet for page named p1 */
 .bg-container {
+    /* we need an image for this. So url of that image has given below */
     background-image: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/chatbg.png);
 
     
@@ -33,5 +34,6 @@
     border-top-left-radius: 5px;
     border-bottom-left-radius: 5px;
 }
+
 
 
